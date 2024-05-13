@@ -1,0 +1,56 @@
+/* styles.css */
+
+body {
+
+    transition: 0.9s;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main {
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    /* This will keep the main div's background white */
+}
+
+h1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    font-size: 2em;
+    color: #333;
+}
+
+button {
+    border-radius: 20px;
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    transition: 0.9s;
+    background-color: #0056b3;
+}
+
+#wrt {
+    font-size: 30px;
+    color: #fff;
+    /* This will change the color code text to white */
+    position: absolute;
+    top: 10px;
+}
