@@ -36,3 +36,11 @@ Feel free to explore the projects and code samples here to get a deeper insight 
 If you have any questions or suggestions regarding the projects or code in this repository, please don't hesitate to reach out.
 
 Happy coding! 🚀
+
+# Links Of Projects 
+
+# Project 1 : (Capitalise)
+https://vanilla-java-script-projects-cgwl.vercel.app/
+
+# Project 2 : ChangeBackgroundColor
+https://vanilla-java-script-projects-lyart.vercel.app/
