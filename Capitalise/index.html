@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Capital</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <main>
+    <div id="content">
+      <h1 id="text"> this is a vanilla javascript project </h1>
+    </div>
+    <button id="button">Update</button>
+  </main>
+  <body>
+    <script>
+      let Update = document.getElementById('button');
+      let val = document.getElementById('text');
+      Update.addEventListener("click", () => {
+        if (val.textContent === val.textContent.toUpperCase()) {
+          val.textContent = val.textContent.toLowerCase();
+        } else {
+          val.textContent = val.textContent.toUpperCase();
+        }
+      });
+    </script>
+  </body>
+</html>
