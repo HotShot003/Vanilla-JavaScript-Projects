@@ -27,14 +27,16 @@ function addTask() {
 // Add CSS using JavaScript
 const style = document.createElement("style");
 style.innerHTML = `
-    body {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height:80vh;
-        margin-right:10px;
+body {
+    background: #77999980; /* This sets a translucent background color using hexadecimal notation */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    margin-right: 10px;
+}
 
-    }
+
     .todo-app{
         background: #666;
         padding: 20px;
