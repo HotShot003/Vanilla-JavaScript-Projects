@@ -36,5 +36,3 @@ Feel free to explore the projects and code samples here to get a deeper insight 
 If you have any questions or suggestions regarding the projects or code in this repository, please don't hesitate to reach out.
 
 Happy coding! 🚀
-
-
