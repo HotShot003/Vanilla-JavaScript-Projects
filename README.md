@@ -34,4 +34,5 @@ You'll find examples of DOM manipulation, AJAX requests, form handling, animatio
 Feel free to explore the projects and code samples here to get a deeper insight into the capabilities of Vanilla JavaScript and how it can be used to build interactive and dynamic web applications.
 
 If you have any questions or suggestions regarding the projects or code in this repository, please don't hesitate to reach out.
+
 Happy coding! 🚀
