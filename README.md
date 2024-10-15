@@ -1,4 +1,5 @@
 # Vanilla JavaScript Project
+
 Welcome to my Vanilla JavaScript repository! 
 
 This repository is dedicated to showcasing my work using pure JavaScript (often referred to as "Vanilla JavaScript").
