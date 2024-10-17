@@ -23,7 +23,6 @@ Working with Vanilla JavaScript helps in understanding fundamental programming c
 Vanilla JavaScript gives you complete control over your code and allows you to implement features exactly as needed without relying on third-party solutions.
 
 # No Dependencies: 
-
 There's no need to manage dependencies or worry about version compatibility issues that often arise with larger libraries or frameworks.
 
 # About This Repository
