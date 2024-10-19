@@ -4,6 +4,7 @@ Welcome to my Vanilla JavaScript repository!
 
 This repository is dedicated to showcasing my work using pure JavaScript (often referred to as "Vanilla JavaScript").
 
+
 # What is Vanilla JavaScript?
 
 Vanilla JavaScript refers to using plain JavaScript without any additional libraries or frameworks like jQuery, React, or Vue.js.
