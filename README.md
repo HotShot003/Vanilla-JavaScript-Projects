@@ -9,6 +9,7 @@ This repository is dedicated to showcasing my work using pure JavaScript (often 
 
 Vanilla JavaScript refers to using plain JavaScript without any additional libraries or frameworks like jQuery, React, or Vue.js.
 
+
 It involves writing code directly with the core JavaScript language and using the browser's built-in features without any abstractions.
 
 # Benefits of Vanilla JavaScript
